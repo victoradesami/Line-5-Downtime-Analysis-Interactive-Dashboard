@@ -23,7 +23,9 @@ MTTR, MTBF, Trend Analysis, Tracks daily unplanned downtime to identify recurrin
 ## Interactive Filtering
 Users can filter the dashboard by:
 
-Day, Shift, Downtime Type
+- Day
+- Shift
+- Downtime Type
 
 ## Tools Used for this project
 Power BI, Power Query, DAX, Excel/CSV (Data Source)
