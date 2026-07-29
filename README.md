@@ -1,5 +1,5 @@
 ## Line-5-Downtime-Analysis-Interactive-Dashboard
-#Learning Outcomes
+
 This project demonstrates practical experience with:
 
 Data cleaning and transformation
