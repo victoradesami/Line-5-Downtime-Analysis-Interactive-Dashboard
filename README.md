@@ -45,4 +45,4 @@ Data Analyst | Power BI Developer
 
 LinkedIn: https://www.linkedin.com/in/victor-adesami-10aa9818a/
 
-Portfolio: (Add your portfolio if available)
+Portfolio: https://www.datascienceportfol.io/victoradesami007
