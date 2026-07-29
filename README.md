@@ -35,3 +35,12 @@ Power BI, Power Query, DAX, Excel/CSV (Data Source)
 4.  Which shift records the highest downtime?
 5.  Which machines are the most reliable?
 6.  How does unplanned downtime change throughout the month?
+
+
+👤 Author
+Adesami Victor
+Data Analyst | Power BI Developer
+
+LinkedIn: https://www.linkedin.com/in/victor-adesami-10aa9818a/
+
+Portfolio: (Add your portfolio if available)
