@@ -7,14 +7,15 @@ Data cleaning and transformation, Data modeling, DAX calculations, KPI design, I
 ## Reliability Metrics
 Measures equipment performance using:
 
-MTTR
-MTBF
-Trend Analysis
-Tracks daily unplanned downtime to identify recurring patterns.
+MTTR, MTBF, Trend Analysis, Tracks daily unplanned downtime to identify recurring patterns.
 
-Interactive Filtering
+## Interactive Filtering
 Users can filter the dashboard by:
 
-Day
-Shift
-Downtime Type
+Day, Shift, Downtime Type
+
+## Tools Used for this project
+Power BI
+Power Query
+DAX
+Excel/CSV (Data Source)
